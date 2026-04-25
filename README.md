@@ -14,7 +14,8 @@ A full-stack learning application for Deaf & Mute students, featuring AI-powered
 - **AI Practice Mode**: Real-time hand tracking for practicing signs.
 - **Text/Speech to Sign**: Convert text or speech into sign language (simulation).
 - **Writing Practice**: Canvas for practicing writing characters.
-
+##Future Scope
+- Next Phase (In Progress): Integrating ElevenLabs API to generate hyper-realistic, localized voice output (Hindi/English) for the real-time translated sign language text
 ## Getting Started
 
 ### Prerequisites
